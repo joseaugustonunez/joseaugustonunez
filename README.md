@@ -6,12 +6,6 @@
 Desarrollador apasionado por crear soluciones modernas, escalables y bien estructuradas.
 </p>
 
-<!-- GIF de carga -->
-<p align="center">
-  <img src="https://i.imgur.com/2krSIQi.gif" width="100">
-</p>
-<p align="center"><strong>Iniciando modo desarrollador...</strong></p>
-
 ---
 
 ## 🌐 Conecta conmigo

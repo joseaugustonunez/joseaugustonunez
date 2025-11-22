@@ -1,6 +1,4 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/Z9Z8FQ2.gif" width="100%" />
-
 <h1 align="center">Hola 👋 Soy José Augusto Nuñez Vicente</h1>
 <h3 align="center">Ingeniero de Sistemas e Informática | Desarrollador Full Stack</h3>
 

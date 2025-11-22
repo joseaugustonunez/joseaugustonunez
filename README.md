@@ -2,7 +2,7 @@
 <h3 align="center">Ingeniero de Sistemas e Informática | Desarrollador Full Stack</h3>
 
 <p align="center">
- Apasionado por crear soluciones eficientes, escalables y con foco en la experiencia de usuario.
+Desarrollador apasionado por crear soluciones modernas, escalables y bien estructuradas.
 </p>
 
 <br>
@@ -12,14 +12,16 @@
 ## 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://pe.linkedin.com/in/josé-augusto-núñez-vicente-37033625a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:josenunez@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="https://www.instagram.com/josenunez__22/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+
+  <a href="mailto:joseaugustonunezvicente@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Correo-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -29,11 +31,24 @@
 
 # 👨🏻‍💻 Sobre mí
 
-- 🎓 **Ingeniero de Sistemas e Informática**  
-- 💼 Experiencia en desarrollo **full stack**, arquitectura de software y soluciones empresariales  
-- 💡 Me enfoco en crear aplicaciones modernas con buenas prácticas  
-- 🚀 Me encanta aprender, enseñar y trabajar en equipo  
-- 📬 Contacto: **josenunez@gmail.com**
+- 🎓 **Ingeniero de Sistemas e Informática**
+- 🧠 Experiencia en desarrollo **full stack**, arquitectura, APIs, y aplicaciones empresariales
+- ⚙️ Trabajo con tecnologías modernas para entregar soluciones rápidas y escalables
+- 🚀 Siempre actualizando mi stack y aprendiendo nuevas herramientas
+- 📬 **Contacto:** joseaugustonunezvicente@gmail.com
+
+---
+
+<br>
+
+# 🚀 Lo que estoy haciendo actualmente
+
+- 🔭 **Desarrollando** proyectos con React, Laravel y Flutter  
+- ⚡ **Optimizando APIs** y sistemas en Node.js / PHP  
+- 📱 **Construyendo apps móviles** con Flutter  
+- 🧩 **Aprendiendo más sobre arquitectura limpia, testing y microservicios**  
+- 🧠 **Mejorando habilidades en DevOps** (Docker, CI/CD, Linux)  
+- 📘 Explorando nuevas herramientas de IA para desarrollo y automatización  
 
 ---
 
@@ -48,7 +63,7 @@
 
 ### **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,fastapi,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,express,fastapi" />
 </p>
 
 ### **Mobile**
@@ -75,46 +90,6 @@
 
 <br>
 
-# 🚀 Proyectos Destacados
-
-<table>
-<tr>
-  <td width="33%" align="center">
-    <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" width="100%">
-      <br>
-      <b>Sistema de Chat con IA</b>
-      <br>
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github">
-    </a>
-  </td>
-
-  <td width="33%" align="center">
-    <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" width="100%">
-      <br>
-      <b>Notificaciones Push Android</b>
-      <br>
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github">
-    </a>
-  </td>
-
-  <td width="33%" align="center">
-    <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" width="100%">
-      <br>
-      <b>SMS Gateway con API</b>
-      <br>
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github">
-    </a>
-  </td>
-</tr>
-</table>
-
----
-
-<br>
-
 # 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -134,4 +109,4 @@
 <br>
 
 # ✨ Gracias por visitar mi perfil  
-¡Siempre estoy abierto a colaborar o trabajar en nuevos proyectos! 🚀
+Siempre abierto a colaborar en nuevos proyectos y desafíos 🚀

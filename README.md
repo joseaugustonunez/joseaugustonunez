@@ -6,34 +6,11 @@
 Desarrollador apasionado por crear soluciones modernas, escalables y bien estructuradas.
 </p>
 
-<!-- Loading Animado -->
-<div align="center">
-  <p><strong>Iniciando modo desarrollador...</strong></p>
-  <div style="
-      width: 300px;
-      height: 12px;
-      background: #1a1a1a;
-      border-radius: 10px;
-      overflow: hidden;
-      border: 1px solid #444;
-    ">
-    <div style="
-        width: 100%;
-        height: 100%;
-        background: linear-gradient(90deg, #00eaff, #007bff, #6f00ff);
-        background-size: 300% 100%;
-        animation: loadingBar 2s infinite linear;
-      ">
-    </div>
-  </div>
-</div>
-
-<style>
-@keyframes loadingBar {
-  0% { background-position: 0% 0; }
-  100% { background-position: 300% 0; }
-}
-</style>
+<!-- GIF de carga -->
+<p align="center">
+  <img src="https://i.imgur.com/llF5iyg.gif" width="220">
+</p>
+<p align="center"><strong>Iniciando modo desarrollador...</strong></p>
 
 ---
 

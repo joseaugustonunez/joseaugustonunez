@@ -8,7 +8,7 @@ Desarrollador apasionado por crear soluciones modernas, escalables y bien estruc
 
 <!-- GIF de carga -->
 <p align="center">
-  <img src="https://i.imgur.com/llF5iyg.gif" width="220">
+  <img src="https://i.imgur.com/2krSIQi.gif" width="100">
 </p>
 <p align="center"><strong>Iniciando modo desarrollador...</strong></p>
 

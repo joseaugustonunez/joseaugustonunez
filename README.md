@@ -93,15 +93,15 @@ Desarrollador apasionado por crear soluciones modernas, escalables y bien estruc
 # 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=josenunez&theme=dark&hide_border=false" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=joseaugustonunez&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenunez&layout=compact&theme=dark&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseaugustonunez&layout=compact&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josenunez&theme=radical&row=1&column=7&margin-w=15" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joseaugustonunez&theme=radical&row=1&column=7&margin-w=15" width="90%" />
 </p>
 
 ---
